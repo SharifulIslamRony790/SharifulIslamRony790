@@ -7,6 +7,9 @@
 
   <br /><br />
 
+  <a href="https://rony-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-rony--portfolio--pi.vercel.app-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=2F81F7" alt="Portfolio" />
+  </a>
   <a href="mailto:mdsharifulislamrony790@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdsharifulislamrony790%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
@@ -18,7 +21,7 @@
   </a>
 
   <p>
-    <sub>Portfolio: <code>[YOUR_PORTFOLIO_URL]</code> · Focus: Backend Engineering · Full-Stack Development · AI-Powered Applications</sub>
+    <sub>Focus: Backend Engineering · Full-Stack Development · AI-Powered Applications</sub>
   </p>
 </div>
 
@@ -159,6 +162,6 @@
 
 <div align="center">
   <sub>
-    <strong>Md. Shariful Islam Rony</strong> · <a href="mailto:mdsharifulislamrony790@gmail.com">mdsharifulislamrony790@gmail.com</a> · <a href="https://www.linkedin.com/in/md-shariful-islam-rony/">LinkedIn</a> · <a href="https://github.com/SharifulIslamRony790">GitHub</a> · Portfolio: <code>[YOUR_PORTFOLIO_URL]</code>
+    <strong>Md. Shariful Islam Rony</strong> · <a href="https://rony-portfolio-pi.vercel.app/">Portfolio</a> · <a href="mailto:mdsharifulislamrony790@gmail.com">mdsharifulislamrony790@gmail.com</a> · <a href="https://www.linkedin.com/in/md-shariful-islam-rony/">LinkedIn</a> · <a href="https://github.com/SharifulIslamRony790">GitHub</a>
   </sub>
 </div>
