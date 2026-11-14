@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharifulIslamRony790/Md-Shariful-Islam-Rony/main/assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharifulIslamRony790/Md-Shariful-Islam-Rony/main/assets/hero-light.svg" />
-    <img src="https://raw.githubusercontent.com/SharifulIslamRony790/Md-Shariful-Islam-Rony/main/assets/hero-dark.svg" alt="Md. Shariful Islam Rony — Backend-Focused Full-Stack Developer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharifulIslamRony790/SharifulIslamRony790/main/assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharifulIslamRony790/SharifulIslamRony790/main/assets/hero-light.svg" />
+    <img src="https://raw.githubusercontent.com/SharifulIslamRony790/SharifulIslamRony790/main/assets/hero-dark.svg" alt="Md. Shariful Islam Rony — Backend-Focused Full-Stack Developer" width="100%" />
   </picture>
 
   <br /><br />
